@@ -88,7 +88,7 @@ const Header = () => {
           </p>
           <a
             id="whatsapp-contact"
-            href="whatsapp://send?abid=+584242519013&text=Hello%2C%20World!"
+            href="https://api.whatsapp.com/send?phone=584125428031&text=Hola%20Aguacandy!%20%F0%9F%8D%AC"
             target="_blank"
             rel="noreferrer"
             style={{ visibility: "hidden" }}

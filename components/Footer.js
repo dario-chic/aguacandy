@@ -14,10 +14,20 @@ const Footer = () => {
         <div className="footer__contact">
           <span className="footer__title">Contacto</span>
 
-          <a href="https://wa.me/584242519013XXXX" className="contact">
+          <a
+            className="contact"
+            href="https://api.whatsapp.com/send?phone=584125428031&text=Hola%20Aguacandy!%20%F0%9F%8D%AC"
+            target="_blank"
+            rel="noreferrer"
+          >
             <WhatsappIcon id="footer__icon" /> +58 412-542-8031
           </a>
-          <a href="#/" className="contact">
+          <a
+            className="contact"
+            href="https://www.instagram.com/aguacandy/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <Instagram id="footer__icon" />
             @aguacandy
           </a>
