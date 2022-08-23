@@ -13,10 +13,10 @@ export default function Document() {
           rel="stylesheet"
         />
       </Head>
-      <Script
+      {/* <Script
         src="https://unpkg.com/aos@next/dist/aos.js"
         onLoad={() => AOS.init()}
-      ></Script>
+      ></Script> */}
 
       <body>
         <Main />
