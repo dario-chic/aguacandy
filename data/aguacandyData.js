@@ -1,24 +1,3 @@
-// import arreglo1 from "/arreglo1.jpg";
-// import arreglo2 from "/arreglo2.jpg";
-// import arreglo3 from "/arreglo3.jpg";
-// import arreglo4 from "/arreglo4.jpg";
-// import arreglo5 from "/arreglo5.jpg";
-// import arreglo6 from "/arreglo6.jpg";
-// import producto1 from "/producto1.jpg";
-// import producto2 from "/producto2.jpg";
-// import producto3 from "/producto3.jpg";
-// import producto4 from "/producto4.jpg";
-// import producto5 from "/producto5.jpg";
-// import producto6 from "/producto6.jpg";
-// import producto7 from "/producto7.jpg";
-// import producto8 from "/producto8.jpg";
-// import producto9 from "/producto9.jpg";
-// import cliente1 from "/cliente1.jpg";
-// import cliente2 from "/cliente2.jpg";
-// import header1 from "/header1.jpg";
-// import header2 from "/header2.jpg";
-// import header3 from "/header3.jpg";
-
 const aguacandyData = {
   header: [
     {
