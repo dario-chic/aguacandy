@@ -1,0 +1,44 @@
+:root {
+  --color1: #e15d8d;
+  --color1-90: #e15d8df2;
+  --color2: #45b8e5;
+  --color3: #f8d7e3;
+  --color4: #603c5f;
+  --color5: #fffafc;
+
+  --font1: "Berkshire Swash", cursive;
+  --font2: "Raleway", sans-serif;
+  --font3: "Open Sans", sans-serif;
+
+  --border: 5px;
+  --box-shadow: rgba(225, 93, 141, 0.65) 0px 5px 11px;
+
+  --general-padding: clamp(1.56rem, calc(-1.77rem + 16.67vw), 6.25rem);
+  --content-padding: 25px;
+  --max-width: 1024px;
+  --content-width: 900px;
+
+  --fast-transition: all 0.2s ease-in-out;
+  --slow-transition: all 0.4s ease-in-out;
+}
+
+@media screen and (min-width: 770px) {
+  :root {
+    --general-padding: clamp(6.25rem, calc(16.85rem + -22.03vw), 0rem);
+    --content-padding: 25px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  :root {
+    --content-padding: 50px;
+  }
+}
+
+@media screen and (min-width: 1225px) {
+  :root {
+    --general-padding: 0px;
+
+    --content-padding: 80px;
+  }
+}

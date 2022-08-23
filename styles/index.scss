@@ -1,0 +1,69 @@
+@import "normalize";
+@import "variables";
+
+body {
+  background-color: var(--color5);
+  letter-spacing: 0.3px;
+  overflow-x: hidden;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.btn {
+  position: relative;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  padding: 1rem 1.1rem;
+  background-color: var(--color2);
+  border: none;
+  font-family: var(--font2);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--color5);
+  border-radius: var(--border);
+  cursor: pointer;
+  &:active {
+    outline: 2px solid var(--color1);
+  }
+  svg {
+    margin-right: 0.3rem;
+    width: 16px;
+  }
+}
+
+.remark {
+  position: relative;
+  color: var(--color2);
+  font-weight: 800;
+  &:before {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    content: "";
+    background-color: var(--color2);
+    transform-origin: left;
+    transform: scaleX(0);
+    transition: all 0.1s ease-in-out;
+  }
+  &:hover {
+    &::before {
+      transform: scaleX(1);
+    }
+  }
+}
+
+@import "nav";
+@import "header";
+@import "main";
+@import "curves";
+@import "slider";
