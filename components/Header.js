@@ -84,7 +84,7 @@ const Header = () => {
           data-aos-delay="1000"
         >
           <p className="header__contact-text">
-            Envíanos un menaje y con gusto te atenderemos.
+            Envíanos un mensaje y con gusto te atenderemos.
           </p>
           <a
             id="whatsapp-contact"

@@ -48,7 +48,7 @@ const aguacandyData = {
     { name: "Chocolate Kinder Bueno", img: "/producto3.jpg" },
     { name: "Mini Oreo", img: "/producto4.jpg" },
     { name: "Ring Pop", img: "/producto5.jpg" },
-    { name: "Caranekis Skittles", img: "/producto6.jpg" },
+    { name: "Caramelos Skittles", img: "/producto6.jpg" },
     { name: "Caramelos Mentos", img: "/producto7.jpg" },
     { name: "Papas Pringles", img: "/producto8.jpg" },
     { name: "Chocolates m&m", img: "/producto9.jpg" },

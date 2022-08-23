@@ -9,7 +9,10 @@ const Footer = () => {
       <div className="footer__info-container">
         <div className="footer__contact">
           <span className="footer__title">Dirección</span>
-          <p className="footer__text">FWC4+XP3, Higuerote 1231, Miranda</p>
+          <p className="footer__text">
+            Vía aeropuerto, urbanización Sabana de oro, Higuerote, Miranda,
+            Venezuela
+          </p>
         </div>
         <div className="footer__contact">
           <span className="footer__title">Contacto</span>
