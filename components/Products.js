@@ -16,7 +16,12 @@ const Products = () => {
         <br />
         <br />A continuación te mostramos una lista de los productos mas
         vendidos de nuestra tienda, para ver el catalogo completo,
-        <a className="remark" href="#/" target="_blank" rel="noreferrer">
+        <a
+          className="remark"
+          href="https://api.whatsapp.com/send?phone=584125428031&text=Hola%20Aguacandy!%20%F0%9F%8D%AC"
+          target="_blank"
+          rel="noreferrer"
+        >
           {" "}
           contactanos!
         </a>
