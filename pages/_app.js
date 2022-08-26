@@ -1,4 +1,3 @@
-import Script from "next/script";
 import "../styles/index.scss";
 import { useEffect } from "react";
 import AOS from "aos";
