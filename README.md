@@ -19,7 +19,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 As a Landing Page, it doesn't have too many special funcionalities, but for this website I developed one that I regard it's interesting because while I was coding it I couldn't find something alike on the web (stackoverflow 😅) so I had to make it from scratch.
 
-It is my "Responsive Slider", my main idea was to create two different views in differents devices.  An slider for mobile and a normal grid when the slider was too big.
+It is my "Responsive Slider", my main idea was to create two different views in differents devices.  An slider for mobile and a standard grid when the slider was too big.
 
 After a while thinking about the flow and logical of the funcionality, both programming and styling, I got my first prototype. It worked, but the switch between sliders was too tough and zero smooth. So by a switch between classes and animations I could get a good result.
 
