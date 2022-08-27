@@ -1,34 +1,27 @@
+# Aguacandy
+
+Landing Page with a beautiful, simple, and minimalist design for a local Candy Store. It's a simple website, because it doesn't have too many functionalities, but it's outstanding for me because of the responsive slider I coded for services/products.
+
+ It was simple but at the same time a difficult problem for resolving.
+
+[See Website](https://aguacandy.vercel.app/)
+
+## Tools and Languages
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ - [React](https://reactjs.org/)
+ - [Next Js](https://nextjs.org/)
+ - [Sass](https://sass-lang.com/)
+ - [Aos Animation](https://michalsnik.github.io/aos/)
 
-## Getting Started
+## Important Features
 
-First, run the development server:
+**Responsive Slider** 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+As a Landing Page, it doesn't have too many special funcionalities, but for this website I developed one that I regard it's interesting because while I was coding it I couldn't find something alike on the web (stackoverflow 😅) so I had to make it from scratch.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+It is my "Responsive Slider", my main idea was to create two different views in differents devices.  An slider for mobile and a normal grid when the slider was too big.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+After a while thinking about the flow and logical of the funcionality, both programming and styling, I got my first prototype. It worked, but the switch between sliders was too tough and zero smooth. So by a switch between classes and animations I could get a good result.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Now I'm working on improve this funcionality by adding more ways to switch between sliders (instead of only right and left) and adding a tactil funcionality for switching when user touches the slider fowards a direction.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
