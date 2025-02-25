@@ -4,8 +4,8 @@
 
 
 ![Portada](https://raw.githubusercontent.com/dario-chic/aguacandy/refs/heads/main/banner.webp)
-![Badge](https://img.shields.io/badge/Estado-Finalizado-brightgreen)
-![Badge](https://img.shields.io/badge/Licencia-MIT-blue)
+![Badge](https://img.shields.io/badge/Status-Finished-brightgreen)
+![Badge](https://img.shields.io/badge/License-MIT-blue)
 ## Tabla de contenidos 📑
 
 - [Description](#description)
