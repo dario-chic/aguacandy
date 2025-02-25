@@ -6,7 +6,7 @@
 ![Portada](https://raw.githubusercontent.com/dario-chic/aguacandy/refs/heads/main/banner.webp)
 ![Badge](https://img.shields.io/badge/Status-Finished-brightgreen)
 ![Badge](https://img.shields.io/badge/License-MIT-blue)
-## Tabla de contenidos 📑
+## Table of contents
 
 - [Description](#description)
 - [Main features](#main-features)
@@ -49,10 +49,7 @@ After experimenting with various approaches, I developed a prototype that worked
 
 ## How to use
 
-Proporciona instrucciones claras sobre cómo instalar y configurar el proyecto localmente.
-
-
-1. Clona el repositorio:
+1. Clone the repository:
    ```bash
    git clone https://github.com/dario-chic/aguacandy.git
    ```
@@ -60,7 +57,7 @@ Proporciona instrucciones claras sobre cómo instalar y configurar el proyecto l
    ```bash
    cd react-rick-and-morty
    ```
-3. Instala las dependencias:
+3. Install dependencies:
    ```bash
    npm install
    ```
